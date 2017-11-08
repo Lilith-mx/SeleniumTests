@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -o /tmp/file.txt http://mywebsite.com/file.txt
