@@ -1,2 +1,4 @@
 #!/bin/bash
 curl -o /tmp/file.xml https://www.sapfioritrial.com/sap/opu/odata/sap/CRM_TASK/$metadata
+bug
+echo hello world
