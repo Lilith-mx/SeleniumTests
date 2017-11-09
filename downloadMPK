@@ -1,4 +1,4 @@
 #!/bin/bash
-curl -o /tmp/file.xml https://www.sapfioritrial.com/sap/opu/odata/sap/CRM_TASK/$metadata
+curl -v -o /tmp/file.xml https://www.sapfioritrial.com/sap/opu/odata/sap/CRM_TASK/$metadata
 ls -al /tmp
 echo hello world
